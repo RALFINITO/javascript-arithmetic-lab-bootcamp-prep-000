@@ -21,3 +21,7 @@ function inc(a){
 function dec(a){
   return --a
 }
+
+function makeint(a){
+  return parseInt(a)
+}
